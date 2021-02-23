@@ -4,4 +4,4 @@ Download the yolo-coco-data file from this link https://drive.google.com/drive/f
 
 And paste the yolo-coco-data files inside the project and execute the program for the object detection.
 
-TO know about YOLO version3 find the PDF.
+TO know about YOLO-version3 find the PDF.
